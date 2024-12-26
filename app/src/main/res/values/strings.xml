@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kidApp</string>
+    <string name="title_activity_login">KidApp</string>
+
+    <string name="title_activity_start">SmartKids</string>
+
+
+
+
+</resources>
